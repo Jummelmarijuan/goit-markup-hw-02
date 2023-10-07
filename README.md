@@ -1,2 +1,1 @@
-# goit-markup-hw-01
- 
+# Module 2. CSS basics. Selectors and color. Text and fonts
